@@ -40,7 +40,7 @@ Ce laboratoire a pour objectif de construire un petit modèle métier (Domain Mo
 
 ## ▶️ Exemple d'exécution
 
-![Execution](1.png)
+![Execution](1.PNG)
 
 
 
